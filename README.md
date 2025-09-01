@@ -25,15 +25,15 @@ This project demonstrates integration of **React frontend** with a **Spring Boot
 
 ## REGISTER USER
 
-![Register User](images/Screenshot%202025-09-01%20at%206.49.05%20PM.png)
+![Register User](https://github.com/komminenisainithin/User-Management-System/blob/main/images/Screenshot%202025-09-01%20at%206.49.05%E2%80%AFPM.png?raw=true)
 
-## View Page
+## View Details
 
-![View Page](images/Screenshot%202025-09-01%20at%206.57.55%20PM.png)
+![View Page](https://github.com/komminenisainithin/User-Management-System/blob/main/images/Screenshot%202025-09-01%20at%206.57.55%E2%80%AFPM.png?raw=true)
 
 ## Home Page
 
-![Home Page](images/Screenshot%202025-09-01%20at%206.56.35%20PM.png)
+![Home Page](https://github.com/komminenisainithin/User-Management-System/blob/main/images/Screenshot%202025-09-01%20at%206.56.35%E2%80%AFPM.png?raw=true)
 
 ---
 
