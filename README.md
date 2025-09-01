@@ -29,3 +29,27 @@ This project demonstrates integration of **React frontend** with a **Spring Boot
 ```bash
 git clone https://github.com/your-username/fullstack-user-management.git
 cd fullstack-user-management
+
+
+Open in IntelliJ / VS Code / Eclipse
+
+Configure MySQL in application.properties:
+
+spring.datasource.url=jdbc:mysql://localhost:3306/userdb
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+spring.jpa.hibernate.ddl-auto=update
+
+Run the Spring Boot Application:
+mvn spring-boot:run
+
+Navigate to frontend folder:
+cd frontend
+npm install
+npm run dev
+
+###Frontend will run on: http://localhost:5173
+
+###REGISTER USER
+
+
