@@ -21,6 +21,20 @@ This project demonstrates integration of **React frontend** with a **Spring Boot
 - RESTful APIs with Spring Boot
 - CORS-enabled backend for React communication
 
+
+
+## REGISTER USER
+
+![Register User](images/Screenshot%202025-09-01%20at%206.49.05%20PM.png)
+
+## View Page
+
+![View Page](images/Screenshot%202025-09-01%20at%206.57.55%20PM.png)
+
+## Home Page
+
+![Home Page](images/Screenshot%202025-09-01%20at%206.56.35%20PM.png)
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -29,6 +43,7 @@ This project demonstrates integration of **React frontend** with a **Spring Boot
 ```bash
 git clone https://github.com/your-username/fullstack-user-management.git
 cd fullstack-user-management
+
 
 
 Open in IntelliJ / VS Code / Eclipse
@@ -48,9 +63,11 @@ cd frontend
 npm install
 npm run dev
 
-###Frontend will run on: http://localhost:5173
+##Frontend will run on: http://localhost:5173
 
-###REGISTER USER
+
+
+
 
 
 
